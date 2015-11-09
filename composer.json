@@ -1,0 +1,4 @@
+{
+	"name": "vernes/YiiMailer",
+	"description": "Yii extension for sending emails with layouts using PHPMailer"
+}
